@@ -1,0 +1,7 @@
+don't track content of these folders
+
+# Compiled source ####################
+__pycache__
+*.pyc
+.ipynb_checkpoints
+# Packages ###################
